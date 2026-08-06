@@ -31,7 +31,7 @@ A análise tem como objetivo transformar os registros comerciais em indicadores 
 
 Os objetivos específicos são:
 
-- - Identificar concentrações e pontos de atenção nas etapas do funil de vendas.
+- Identificar concentrações e pontos de atenção nas etapas do funil de vendas.
 - Mensurar a receita total, o ticket médio e o ciclo médio das vendas concluídas.
 - Calcular o valor total e o valor ponderado do pipeline aberto.
 - Comparar o desempenho dos vendedores em receita, conversão, ticket médio e cumprimento de metas.
