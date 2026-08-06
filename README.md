@@ -393,7 +393,7 @@ Possíveis evoluções do projeto incluem:
 
 ## Autor
 
-Desenvolvido por *Vinicius do Nascimento Ramos da Silva*
+Desenvolvido por *Vinicius Ramos*
 
 - [Meu LinkedIn](https://www.linkedin.com/in/vrdataanalyst/)
 - [Meu GitHub](https://github.com/vxnuzz)
