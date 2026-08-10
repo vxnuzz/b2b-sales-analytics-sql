@@ -1,5 +1,7 @@
 # Análise de Vendas B2B com SQL
 
+[![Modelo de dados](docs/modelo_dados.png)](docs/modelo_dados.png)
+
 Este projeto analisa 1.000 oportunidades comerciais sintéticas de uma operação de vendas B2B, com o objetivo de avaliar o desempenho comercial, identificar concentrações e pontos de atenção no funil e mapear riscos no pipeline. Por meio de consultas SQL executadas em SQLite, foram investigados vendedores, clientes, produtos, contratos e indicadores da operação. O repositório inclui um banco SQLite pronto para exploração, o modelo relacional, consultas analíticas e um processo reproduzível de geração dos dados.
 
 ## Sumário
@@ -111,8 +113,6 @@ O banco segue um modelo relacional centrado na tabela oportunidades. Cada oportu
 |`vendedores`|`id_vendedor`|Integrantes da equipe comercial e suas metas|
 |`produtos`|`id_produto`|Produtos oferecidos e preços de referência|
 |`oportunidades`|`id_oportunidade`|Negociações registradas no processo comercial|
-
-[![Modelo de dados](docs/modelo_dados.png)](docs/modelo_dados.png)
 
 ### Clientes
 
